@@ -1,0 +1,47 @@
+name: trading
+channels:
+  - defaults
+  - conda-forge
+  - menpo
+dependencies:
+  - ca-certificates=2024.3.11=haa95532_0
+  - openssl=3.0.13=h2bbff1b_0
+  - pip=23.3.1=py39haa95532_0
+  - python=3.9.19=h1aa4202_0
+  - setuptools=68.2.2=py39haa95532_0
+  - sqlite=3.41.2=h2bbff1b_0
+  - vc=14.2=h21ff451_1
+  - vs2015_runtime=14.27.29016=h5e58377_2
+  - wheel=0.41.2=py39haa95532_0
+  - pip:
+      - beautifulsoup4==4.12.3
+      - bs4==0.0.2
+      - colorama==0.4.6
+      - et-xmlfile==1.1.0
+      - greenlet==3.0.3
+      - importlib-metadata==7.1.0
+      - jaraco-classes==3.3.1
+      - jaraco-context==4.3.0
+      - jaraco-functools==4.0.0
+      - keyring==25.0.0
+      - more-itertools==10.2.0
+      - numpy==1.26.4
+      - openpyxl==3.1.2
+      - packaging==24.0
+      - pandas==2.2.1
+      - patsy==0.5.6
+      - pymysql==1.1.0
+      - python-dateutil==2.9.0.post0
+      - pytz==2024.1
+      - pywin32-ctypes==0.2.2
+      - schedule==1.2.1
+      - scipy==1.12.0
+      - six==1.16.0
+      - soupsieve==2.5
+      - sqlalchemy==2.0.29
+      - statsmodels==0.14.1
+      - tqdm==4.66.2
+      - typing-extensions==4.10.0
+      - tzdata==2024.1
+      - zipp==3.18.1
+prefix: C:\Users\Administrator\anaconda3\envs\trading2
